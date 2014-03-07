@@ -88,18 +88,14 @@ In progress:
 <li>Extended Euclidean algorithm - diofantic equations</li>
 <li>Factorisation</li>
 <li>Modular Inverse</li>
-
 <li>Basic Sieve of Eratosthenes</li>
 <li>Segmented Sieve of Eratosthenes</li>
-
-<li>Newton's Symbol<li>
+<li>Newton's Symbol</li>
 <li>Inversion count</li>
 <li>Sign of permutation</li>
-
 <li>Basic Sieve of Eratosthenes</li>
 <li>Basic Sieve of Eratosthenes</li>
-
-<li>Some generation algorithms (including De Brujin's sequences)<li>
+<li>Some generation algorithms (including De Brujin's sequences)</li>
 
 </ol>
 
@@ -173,7 +169,7 @@ In progress:
 <li>Binary Indexed Tree</li>
 <li>Statistic Tree</li>
 
-<li>Disjoint Set Forest 
+<li>Disjoint Set Forest</li>
 </ol>
 
 ###Libraries
