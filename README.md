@@ -3,11 +3,11 @@ CodeLibrary
 
 A storage for the most commonly used algorithms and data structures. 
 
-Please note that we are currently working to make this library as usefull as possible by
+Please note that we are currently working to make this library as usefull as possible, by
 adding kind of readme file to every code, which contains important pieces of information
 such as detailed instructions how to use it, what is the input/output and some significant assumptions we made
-during the process of implementation. We are also providing information about the problems (usually from SPOJ.com) 
-solved by explicit or implicit (i.e some easy modification) useage of a particular algo. 
+during the process of implementation. We are also providing information about the problems (usually from spoj.com and spoj.pl) 
+solved by explicit or implicit (i.e. some easy modification) useage of a particular algo. 
 
 You may consider it as a spoiler in some case, so be aware that our intention is to deliver you a confirmation of correctness of a particular implementation, not a detailed solution.
 
@@ -18,26 +18,27 @@ Table of contents:
 
 ###Graph algorithms
 <ol>
-<li>Breadth First Search</li>
-<li>Breadth First Search on grid</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Breadth%20First%20Search>Breadth First Search</a></li>
 
-<li>Depth First Search</li>
-<li>Depth First Search on grid</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Breadth%20First%20Search%20on%20grid>Breadth First Search on grid</a></li>
 
-<li>Maximal Flow - Dinic algorithm</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Depth%20First%20Search>Depth First Search</a></li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Depth%20First%20Search%20on%20grid>Depth First Search on grid</a></li>
 
-<li>Maximal Matching - Hopcroft-Karp algorithm</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Maximal%20Flow%20-%20Dinic>Maximal Flow - Dinic algorithm</a></li>
 
-<li>Minimal Spanning Tree - Kruskal algorithm</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Maximal%20Matching%20-%20Hopcroft-Karp>Maximal Matching - Hopcroft-Karp algorithm</a></li>
 
-<li>Strongly Connected Components</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Minimal%20Spanning%20Tree%20-%20Kruskal>Minimal Spanning Tree - Kruskal algorithm</a></li>
 
-<li>Shortest Paths - Bellman-Ford algorithm</li>
-<li>Shortest Paths - Dijkstra algorithm</li>
-<li>Shortest Paths - Floyd-Warshall algorithm</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Strongly%20Connected%20Components>Strongly Connected Components</a></li>
 
-<li>Topological sort using DFS</li>
-<li>Topological sort using elimination</li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Shortest%20Paths%20-%20Bellman-Ford>Shortest Paths - Bellman-Ford algorithm</a></li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Shortest%20Paths%20-%20Dijkstra>Shortest Paths - Dijkstra algorithm</a></li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Shortest%20Paths%20-%20Floyd%20Warshall>Shortest Paths - Floyd-Warshall algorithm</a></li>
+
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Topological%20Sort%20-%20DFS>Topological sort using DFS</a></li>
+<li><a href=https://github.com/kkapitan/CodeLibrary/tree/master/Graph%20algorithms/Topological%20Sort%20-%20Elimination>Topological sort using elimination</a></li>
 </ol>
 
 ###Sorting algorithms
