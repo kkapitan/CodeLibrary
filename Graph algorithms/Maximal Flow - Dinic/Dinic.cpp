@@ -4,15 +4,9 @@
 #include<iostream>
 using namespace std;
 
-/* ************************************************************************************ */
-/*     Algorytm Dinica na znajdowanie maksymalnego przep³ywu/minimalnego przekroju.     */
-/*     Nale¿y podaæ iloœæ wierzcho³ków,iloœæ krawêdzi,Ÿród³o,ujœcie i opisy krawêdzi    */
-/*     wraz z przepustowoœci¹. Algorytm wykorzystuje listê incydencji.                  */
-/* ************************************************************************************ */
-
-const int MAXN = 1000;    // Maxymalna liczba wierzcho³ków
-const int MAXE = 100000;  // Maxymalna liczba krawêdzi
-const int INF  = 1<<10;
+const int MAXN = 1000;    
+const int MAXE = 100000;  
+const int INF  = 1<<30;
 
 int flow[MAXE],cap[MAXE],next[MAXE],to[MAXE];
 int dist[MAXN],fin[MAXN],start[MAXN];
