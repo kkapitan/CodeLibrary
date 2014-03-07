@@ -124,16 +124,11 @@ In progress:
 <li>Bounded Knapsack Problem</li>
 <li>Unbounded Knapsack Problem</li>
 
-<li></li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
-<li>Binary Search Tree</li>
+<li>Longest common subsequence</li>
+<li>String distance</li>
+<li>Longest increasing subsequence</li>
+
+<li>And moar</li>
 
 
 </ol>
@@ -141,6 +136,7 @@ In progress:
 ###Computentional geometry 
 
 <ol>
+<li>Convex Hull</li>
 <li>Hell lot of things</li>
 </ol>
 
@@ -182,3 +178,5 @@ In progress:
 <li>Fractions</li>
 
 </ol>
+
+AND MAYBE SOME SIMPLEX!!!1111oneone :D:D:D:D:D:D
