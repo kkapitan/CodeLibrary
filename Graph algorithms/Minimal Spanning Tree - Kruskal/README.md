@@ -22,3 +22,4 @@ Simply the value of a minimal spanning tree :)
 ###Solved problems
 [Bytelandian Blingors Network](http://www.spoj.com/problems/BLINNET/) <br>
 [Minimalne Drzewo Spinające (PL)](http://pl.spoj.com/problems/SPIN_PL/)
+ 
