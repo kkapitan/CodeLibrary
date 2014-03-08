@@ -24,4 +24,4 @@ An array <b>dist</b> containing distance from source vertex to all other vertice
 
 
 ###Solved problems
-[To do]
+[To do] 
