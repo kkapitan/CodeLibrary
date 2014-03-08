@@ -4,14 +4,7 @@
 #include<queue>
 using namespace std;
 
-/* ********************************************************************** */
-/* Sortowanie Topologiczne metodą dfs. Należy podać liczbę wierzchołków   */
-/* oraz krawędzi, a następnie ich opisy. Implementacja wykorzystuje       */
-/* listę sąsiedztwa. Wierzchołki indeksowane są od 0. Algorytm uwzględnia */
-/* niepoprawność danych (wypisuje komunikat).                             */
-/* ********************************************************************** */
-
-const int MAXN = 1000;   // Maksymalna liczba wierzchołków
+const int MAXN = 1000; 
 const int INF  = 100000000;
 
 vector<int>g[MAXN];
