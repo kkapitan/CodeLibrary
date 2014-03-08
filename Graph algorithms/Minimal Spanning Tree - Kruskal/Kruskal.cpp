@@ -4,14 +4,7 @@
 #include<algorithm>
 using namespace std;
 
-/* ********************************************************************* */
-/* Algorytm Kruskala wyszukiwania minimalnego drzewa rozpinającego.      */
-/* Należy podać liczbę wierzchołków oraz krawędzi, a następnie ich opisy */
-/* wraz z wagami. Algorytm zwraca wartość minimalnego drzewa.            */
-/* ********************************************************************* */
-
-const int MAXN = 1000;      // Maksymalna liczba wierzchołków
-const int INF  = 100000000;
+const int MAXN = 1000;      
 
 struct Tedge{
     int a,b,w;
