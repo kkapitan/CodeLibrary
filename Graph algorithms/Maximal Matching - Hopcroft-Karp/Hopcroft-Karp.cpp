@@ -4,13 +4,8 @@
 #include<queue>
 using namespace std;
 
-/* ********************************************************************* */
-/* Algorytm Hopcrofta-Karpa wyszukiwania maksymalnego skojarzenia        */
-/* w grafie dwudzielnym. Nale¿y podaæ liczbê wierzcho³ków z obu grup     */
-/* oraz krawêdzie miêdzy nimi. Wierzcho³ki indeksowane s¹ od 1.          */
-/* ********************************************************************* */
 
-const int MAXN = 100000;   // Sumaryczna liczba wierzcho³ków z obu grup
+const int MAXN = 100000;   
 const int INF  = 100000000;
 
 vector<int>g[MAXN];
