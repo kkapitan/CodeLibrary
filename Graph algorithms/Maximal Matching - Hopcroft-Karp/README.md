@@ -25,3 +25,4 @@ Simply the value of a maximal matching :) <br> The actual matching is stored in 
 ###Solved problems
 [Fast Maximum Matching](http://www.spoj.com/problems/MATCHING/) <br>
 [Gołębie (PL)](http://pl.spoj.com/problems/GOLEBIE/) <br>
+ 
