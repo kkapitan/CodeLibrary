@@ -1,17 +1,9 @@
-README.md#include<iostream>
+#include<iostream>
 #include<stdio.h>
 #include<vector>
 using namespace std;
 
-/* ********************************************************************* */
-/* Algorytm Bellmana-Forda wyszukiwania najkrótszej ścieżki w odległości */
-/* od zadanego źródła. Należy podać liczbę wierzchołków oraz krawędzi,   */
-/* a następnie ich opisy wraz z wagami. Implementacja wykorzystuje       */
-/* listę sąsiedztwa. Wierzchołki indeksowane są od 0. Algorytm wykrywa   */
-/* ujemne cykle.                                                         */
-/* ********************************************************************* */
-
-const int MAXN = 1000;   // Maksymalna liczba wierzchołków
+const int MAXN = 1000;  
 const int INF  = 100000000;
 
 vector<int>g[MAXN];
