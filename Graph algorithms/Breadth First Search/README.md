@@ -11,9 +11,11 @@ Then m lines, each line describing an undirected edge (<b>a</b>, <b>b</b>). <br>
 
 However it is easy to change the implementation for the direct edges. 
 
+Vertices starts with 0.
+
 ####Output
 
-An array <b>dist</b> containing unit distance from source to all of vertices (i.e. <b>dist[c]</b> is equal to unit distance from the source vertex to vertex <b>c</b>). If no path exists, the distance is equal to INF.
+An array <b>dist</b> containing the unit distance from source to all of vertices (i.e. <b>dist[c]</b> is equal to the unit distance from the source vertex to vertex <b>c</b>). If no path exists, the distance is equal to INF.
 
 ####Additional comments
 
