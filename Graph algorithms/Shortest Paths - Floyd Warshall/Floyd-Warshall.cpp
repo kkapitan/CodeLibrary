@@ -2,14 +2,8 @@
 #include<stdio.h>
 using namespace std;
 
-/* ********************************************************************* */
-/* Algorytm Floyda-Warshalla wyszukiwania najkrótszych œcie¿ek           */
-/* miêdzy parami wierzcho³ków. Nale¿y podaæ liczbê wierzcho³ków          */
-/* oraz krawêdzi,a nastêpnie ich opisy wraz z wagami. Implementacja      */
-/* wykorzystuje macierz s¹siedztwa. Wierzcho³ki indeksowane s¹ od 0.     */
-/* ********************************************************************* */
 
-const int MAXN = 1000;   // Maksymalna liczba wierzcho³ków
+const int MAXN = 1000;   
 const int INF  = 100000000;
 
 int dist[MAXN][MAXN];
