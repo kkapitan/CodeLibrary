@@ -20,5 +20,5 @@ Simply the value of a minimal spanning tree :)
 <b>MAXN</b> - maximal number of vertices. <br>
 
 ###Solved problems
-[Bytelandian Blingors Network](http://www.spoj.com/problems/BLINNET/)
+[Bytelandian Blingors Network](http://www.spoj.com/problems/BLINNET/) <br>
 [Minimalne Drzewo Spinające (PL)](http://pl.spoj.com/problems/SPIN_PL/)
