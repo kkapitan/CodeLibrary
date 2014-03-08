@@ -11,7 +11,7 @@ struct Node
 {
     int id,w;
     Node(int _id, int _w){id = _id; w = _w;}
-    bool operator< (const Node &t)const{return w>t.w;}
+    bool operator< (const Node &t)const{return w>t.w;} 
 };
 
 vector<int>g[MAXN],wei[MAXN];
