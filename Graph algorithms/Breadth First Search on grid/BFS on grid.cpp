@@ -4,14 +4,11 @@
 #include<queue>
 using namespace std;
 
-/* ********************************************************************* */
-/* Algorytm BFS przeszukiwania mapy. Należy podać wymiary mapy           */
-/* i jej budowę. Zmienna SEP przechowuje znak symbolizujący przeszkodę.  */
-/* ********************************************************************* */
 
-const int MAXN = 1000;   // Maksymalny rozmiar mapy
+
+const int MAXN = 1000;   
 const int INF  = 100000000;
-const char SEP = '#';    // Przeszkoda na mapie
+const char SEP = '#';    
 
 int dx[] = {1,-1,0,0};
 int dy[] = {0,0,1,-1};
