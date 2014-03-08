@@ -7,7 +7,7 @@ An implementation of a Breadth First approach for traversing the grid.
 ####Input
 
 <b>h, w</b> - the height and width of the grid. <br>
-Then h lines comtaining w characters representing the grid. <br>
+Then h lines containing w characters representing the grid. <br>
 
 ####Output
 
