@@ -11,6 +11,8 @@ Then m lines, each line describing an undirected edge (<b>a</b>, <b>b</b>) with 
 
 However it is easy to change that implementation to accept direct edges.
 
+Vertices starts with 0.
+
 ####Output
 
 An array <b>dist</b> containing distance from source vertex to all other vertices (i.e. <b>dist[a]</b> is equal to the distance between vertex <b>src</b> and vertex <b>a</b>).
