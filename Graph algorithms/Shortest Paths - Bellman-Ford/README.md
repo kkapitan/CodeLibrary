@@ -1,6 +1,6 @@
 ###Description
 
-An implementation of a Bellman-Ford's approach for finding shortest path from source vertex to all other vertices in a weighted graph.
+An implementation of a Bellman-Ford's approach for finding shortest path from source vertex to all other vertices in a weighted graph. This implementation detects negative cycles. 
 
 ###Usage
 
@@ -19,7 +19,6 @@ An array <b>dist</b> containing distance from source vertex to all other vertice
 
 <b>MAXN</b> - maximal number of vertices. <br>
 <b>INF</b>  - any big enough number. <br>
-
 
 ###Solved problems
 [To do]
