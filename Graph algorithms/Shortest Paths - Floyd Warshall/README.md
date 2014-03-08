@@ -6,10 +6,12 @@ An implementation of a Floyd-Warshall's approach for finding shortest paths betw
 
 ####Input
 
-<b>n, m</b> - number of vertices and number of edges respectively <br>
+<b>n, m</b> - number of vertices and number of edges respectively. <br>
 Then m lines, each line describing an undirected edge (<b>a</b>, <b>b</b>) with weight <b>c</b>. <br> 
 
 However it is easy to change that implementation to accept direct edges.
+
+Vertices starts with 0.
 
 ####Output
 
