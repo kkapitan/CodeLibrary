@@ -11,6 +11,8 @@ Then m lines, each line describing an undirected edge (<b>a</b>, <b>b</b>). <br>
 
 However it is easy to change the implementation for the direct edges. 
 
+Vertices starts with 0.
+
 ####Output
 
 There is no specific output. This approach allows us to execute some further operations on a DFS ordered tree.
