@@ -15,7 +15,7 @@ There is no specific output. This approach allows us to execute some further ope
 
 ####Additional comments
 
-<b>MAXN</b> - maximal size of the rows and columns. <br>
+<b>MAXN</b> - maximal size of the grid.  <br>
 <b>SEP</b> - character marked as an obstacle. <br>
 
 ###Solved problems
