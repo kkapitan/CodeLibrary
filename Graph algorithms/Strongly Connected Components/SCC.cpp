@@ -4,13 +4,7 @@
 #include<queue>
 using namespace std;
 
-/* ********************************************************************* */
-/* Algorytm znajdowania silnie spójnych składowych. Należy podać liczbę  */
-/* wierzchołków oraz krawędzi, a następnie ich opisy. Implementacja      */
-/* wykorzystuje listę sąsiedztwa. Wierzchołki indeksowane są od 0.      */
-/* ********************************************************************* */
-
-const int MAXN = 1000;   // Maksymalna liczba wierzchołków
+const int MAXN = 1000;  
 const int INF  = 100000000;
 
 vector<int>g[MAXN],gt[MAXN],res[MAXN];
