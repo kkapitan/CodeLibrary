@@ -6,7 +6,7 @@ An implementation of a Hopcroft-Karp's approach for finding Max Matching in a bi
 
 ####Input
 
-<b>n, m, p</b> - number of vertices in first group, number of vertices in second group and number of edges respectively, then p lines, each line describing an undirected edge (<b>wa</b>, <b>wb</b>) which starts in first and ends in second group.<br>
+<b>n, m, p</b> - number of vertices in first group, number of vertices in second group and number of edges respectively, then p lines, each line describing an undirected edge (<b>a</b>, <b>b</b>) which starts in first and ends in second group.<br>
 
 <b>Vertices in either first or second group starts with 0!</b> <br>
 However it is easy to remove that constraint :)
