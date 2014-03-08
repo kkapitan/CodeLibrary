@@ -18,8 +18,8 @@ Simply the value of a maximal matching :) <br> The actual matching is stored in 
 
 ####Additional comments
 
-<b>MAXN</b> - maximal number of vertices (sum of both groups) <br>
-<b>INF</b>  - any number greater than MAXN <br>
+<b>MAXN</b> - maximal number of vertices (sum of both groups). <br>
+<b>INF</b>  - any number greater than MAXN. <br>
 
 
 ###Solved problems
