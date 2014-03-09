@@ -7,7 +7,7 @@ Please note that we are currently working to make this library as usefull as pos
 adding kind of readme file to every code, which contains important pieces of information
 such as detailed instructions how to use it, what is the input/output and some significant assumptions we made
 during the process of implementation. We are also providing information about the problems (usually from spoj.com and spoj.pl) 
-solved by explicit or implicit (i.e. some easy modification) useage of a particular algo. 
+solved by explicit or implicit (i.e. some easy modification) usage of a particular algo. 
 
 You may consider it as a spoiler in some case, so be aware that our intention is to deliver you a confirmation of correctness of a particular implementation, not a detailed solution.
 
