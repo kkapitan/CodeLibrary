@@ -54,7 +54,9 @@ Table of contents:
 ###Computentional geometry 
 
 ###Data structures
-
+<ol>
+<li><a href="https://github.com/kkapitan/CodeLibrary/tree/master/Data%20structures/Dictionary%20tree">Dictionary Tree</a></li>
+</ol>
 ###Libraries
 
 In progress:
@@ -161,7 +163,6 @@ In progress:
 <li>Red-Black Tree</li>
 <li>AVL Tree</li>
 
-<li>Dictionary Tree</li>
 <li>Segment Tree</li>
 <li>Binary Indexed Tree</li>
 <li>Statistic Tree</li>
