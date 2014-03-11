@@ -43,6 +43,12 @@ Table of contents:
 
 ###Sorting algorithms
 
+<ol>
+<li><a href="https://github.com/kkapitan/CodeLibrary/tree/master/Sorting%20algorithms/HeapSort">HeapSort</a></li>
+<li><a href="https://github.com/kkapitan/CodeLibrary/tree/master/Sorting%20algorithms/MergeSort">MergeSort</a></li>
+<li><a href="https://github.com/kkapitan/CodeLibrary/tree/master/Sorting%20algorithms/QuickSort">QuickSort</a></li>
+</ol>
+
 ###Numerical algorithms
 
 ###Text algorithms
@@ -76,9 +82,6 @@ In progress:
 ###Sorting algorithms
 
 <ol>
-<li>HeapSort</li>
-<li>MergeSort</li>
-<li>QuickSort</li>
 <li>InsertionSort</li>
 <li>SelectSort</li>
 <li>BubbleSort</li>
