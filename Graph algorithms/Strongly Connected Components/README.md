@@ -18,4 +18,4 @@ Simply the vertices partitioned into strongly connected subgraphs.
 <b>MAXN</b> - maximal number of vertices. <br>
 
 ###Solved problems
-[Proving equalities](www.spoj.com/problems/PMATRIX)
+[Proving equalities](www.spoj.com/problems/PMATRIX/)
