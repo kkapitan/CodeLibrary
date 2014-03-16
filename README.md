@@ -51,6 +51,12 @@ Table of contents:
 
 ###Numerical algorithms
 
+###Combinatorical algorithms
+
+<ol>
+<li><a href="https://github.com/kkapitan/CodeLibrary/tree/master/Combinatorical%20algorithms">Counting inversions - MergeSort</a></li>
+</ol>
+
 ###Text algorithms
 
 ###Cryptographic algorithms
@@ -97,7 +103,6 @@ In progress:
 <li>Basic Sieve of Eratosthenes</li>
 <li>Segmented Sieve of Eratosthenes</li>
 <li>Newton's Symbol</li>
-<li>Inversion count</li>
 <li>Sign of permutation</li>
 <li>Basic Sieve of Eratosthenes</li>
 <li>Basic Sieve of Eratosthenes</li>
