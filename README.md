@@ -59,6 +59,11 @@ Table of contents:
 
 ###Text algorithms
 
+<ol>
+<li><a href="https://github.com/kkapitan/CodeLibrary/tree/master/Text%20algorithms/Finding%20a%20pattern%20-%20KMP">Findinga pattern - KMP</a></li>
+<li><a href="https://github.com/kkapitan/CodeLibrary/tree/master/Text%20algorithms/Radius%20of%20a%20palindrome%20-%20Manacher">Radius of a palindrome - Manacher's algorithm</a></li>
+</ol>
+
 ###Cryptographic algorithms
 
 ###Dynamic approach algorithms
@@ -113,8 +118,6 @@ In progress:
 ###Text algorithms
 
 <ol>
-<li>KMP</li>
-<li>Manacher</li>
 <li>KMP 2D</li>
 <li>Cyclic equality</li>
 </ol>
